@@ -1,2 +1,6 @@
 # my-java-code
-├── arrays/  ├── strings/  ├── linkedlist/  ├── recursion/
+java-dsa-practice/
+ ├── arrays/
+ ├── strings/
+ ├── linkedlist/
+ ├── recursion/
